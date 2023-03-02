@@ -1,7 +1,7 @@
 # PythonDBserverAssignment
 
-Data needs similar format as the one in the data txt file
+Data needs similar format as the one in the data txt file <br>
 
-Run server file
-Run client file
-Follow the indications on the console
+Run server file <br>
+Run client file <br>
+Follow the indications on the console <br>
