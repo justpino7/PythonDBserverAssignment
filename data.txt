@@ -1,0 +1,20 @@
+John|43|123 Apple street|514 007-3452
+Katya| 26|49 Queen Mary Road|514 980-7654
+Ahmad|91|1888 Pepper Lane|
+Nick|16|234 Pear street|514 967-3452
+Kristoff| 19|345 King Philip Road|514 741-7654
+Jack|46|456 Salt Lane|
+Tony|49|567 Pineapple street|514 499-3452
+Natasha| 54|478 John Favreau Road|514 412-7654
+Ahmed|76|678 Paprika Lane|
+Tom|26|789 Peach street|514 996-3452
+Natalya| 64|891 Lord Stark Road|514 852-7654
+Bern|99|875 Cuman Lane|
+Donald|65|742 Banana street|514 641-3452
+Ingrid| 85|4278 Lady Olena Road|514 998-7654
+Ali|60|4277 Oregano Lane|
+Trixie|22|933 Avocado street|514 689-3452
+Jennifer| 27|12 Lord Strong Road|514 245-7654
+Armando|30|1122 Kebab Lane|
+Alex|23|1239 Kiwi street|514 132-3452
+Sebastian| 24|8852 Bloody Mary Road|514 122-7654
